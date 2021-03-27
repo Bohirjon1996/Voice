@@ -15,15 +15,15 @@
         },
         "RADIO_LINK": {
             "description": "Radio Link",
-            "value": "http://peridot.streamguys.com:7150/Mirchi"
+            "value": "https://online.hitfm.ua/HitFM"
         },
         "SUDO_CHAT_ID": {
             "description": "Group ID",
-            "value": "-1001176749967"
+            "value": "-1001486306189"
         },
         "OWNER_ID": {
             "description": "Telegram Owner ID",
-            "value": "1327934109"
+            "value": "1681969743"
         }
     },
     "addons": [],
